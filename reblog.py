@@ -6,8 +6,9 @@
 # This code is part of an article that is
 # copyright (c) 2004 William C. Benton
 #
-# Redistribution, modification, etc. of this code (but not
-# the article) are welcome under the terms of the GNU GPL
+# Redistribution, modification, etc. of this code are welcome
+# under the standard BSD license:
+#    http://creativecommons.org/licenses/BSD/
 
 import feedparser
 import xmlrpclib
