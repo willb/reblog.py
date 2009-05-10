@@ -8,8 +8,10 @@ feed, or tumblelog into a regular weblog. (I wrote it so I
 could import my old linklog into my regular weblog. [2])
 
 I maintain that it is almost too simple to be copyrightable,
-but I license it to you under the terms of the GNU GPL.[3]
+but I license it to you under the terms of the standard 
+BSD license[3]; note that this software has NO WARRANTY, 
+either express or implied.
 
 [1]  see http://www.feedparser.org/
 [2]  see http://blog.willbenton.com/2004/09/reblogging-made-pathologically-easy/
-[3]  http://creativecommons.org/license/cc-gpl
+[3]  http://creativecommons.org/licenses/BSD
